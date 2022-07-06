@@ -20,7 +20,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/33yliam/barcode-attendance-management.git; cd barcode-attendance-management
+   git clone https://github.com/33yliam/Barcode-Attendance-Management.git; cd Barcode-Attendance-Management
    ```
 2. Install Expo CLI and NPM packages
    ```sh
